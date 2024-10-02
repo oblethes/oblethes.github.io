@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oblethes.github.io/sitemap.html.gz
+Sitemap: https://oblethes.github.io/app/sitemap.html.gz
+Sitemap: https://oblethes.github.io/assets/sitemap.html.gz
+Sitemap: https://oblethes.github.io/css/sitemap.html.gz
+Sitemap: https://oblethes.github.io/data/sitemap.html.gz
+Sitemap: https://oblethes.github.io/includes/sitemap.html.gz
+Sitemap: https://oblethes.github.io/item/sitemap.html.gz
+Sitemap: https://oblethes.github.io/src/sitemap.html.gz
